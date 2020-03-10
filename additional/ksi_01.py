@@ -2,14 +2,14 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # стационарные значения
-stat = [
+stat = [ [6, 6]
 		]
 
 # нестационарные значения
 nonstat = [ 
 		]
 # значения, которые сейчас считаются
-temp = [[6, 6] 
+temp = [[5.5, 5.5] 
 		]
 
 # вынимаем из массива stat все x и y
